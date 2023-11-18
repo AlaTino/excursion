@@ -32,4 +32,5 @@ h2 {
 footer {
     color: gray;
     text-align: right;
+    margin: 0 auto;
 }
